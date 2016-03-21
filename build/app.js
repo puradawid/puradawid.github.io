@@ -1,0 +1,2 @@
+window.alert("HELLO!");
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5qcyJdLCJuYW1lcyI6WyJ3aW5kb3ciLCJhbGVydCJdLCJtYXBwaW5ncyI6IkFBQUFBLE9BQU9DLE1BQU0iLCJmaWxlIjoiYXBwLmpzIiwic291cmNlc0NvbnRlbnQiOlsid2luZG93LmFsZXJ0KCdIRUxMTyEnKTtcbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ==
