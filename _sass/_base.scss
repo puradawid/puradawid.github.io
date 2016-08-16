@@ -204,3 +204,21 @@ pre {
         }
     }
 }
+
+/**
+ * Table
+ */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid $grey-color;
+
+    th {
+        border:2px solid $grey-color;
+    }
+
+    td {
+        border:1px solid $grey-color;
+    }
+}
+
