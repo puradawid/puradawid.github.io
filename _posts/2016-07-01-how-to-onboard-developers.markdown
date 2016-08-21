@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to prepare company to remote working + checklist"
+title:  "Do I need onboard remote developers?"
 date:   2016-07-01 13:37:10 +0200
-categories: craftsmanship remote working
+categories: craftsmanship remote working onboarding
 ---
 
 There is a main rule in all remote working companies - they have to be prepared for such enormous and exhausting effort which is reducing cost and hiring the best of the bests around the globe. It isn't an easy task at all. Still many companies simply don't know how to effectively manage people that are working from home and how to measure this effectiveness.
