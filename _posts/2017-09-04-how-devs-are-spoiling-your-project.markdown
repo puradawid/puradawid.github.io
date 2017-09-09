@@ -2,6 +2,7 @@
 layout: post
 title:  "How software engineers are spoiling your project?"
 date:   2017-09-04 13:37:10 +0200
+image:  /assets/man.jpg
 categories: craftsmanship scrum
 ---
 ![Happy developer sitting in front of a computer]({{ site.url }}/assets/man.jpg)
