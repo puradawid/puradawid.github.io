@@ -17,8 +17,8 @@
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:locale" content="en_GB" />
-  <meta name="twitter:site" content="@chronotope" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:site" content="@puradawid" />
+  <meta name="twitter:text:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
   {% if page.title %}
     <!-- Article specific OG data -->
@@ -35,7 +35,7 @@
     {% endfor %}
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:creator" content="@chronotope" />
+    <meta name="twitter:creator" content="@puradawid" />
     <meta name="twitter:title" content="{{page.title}}" />
   {% if page.ogimagenull %}
     <!-- no og image -->

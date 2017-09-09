@@ -3,6 +3,7 @@ layout: post
 title:  "How software engineers are spoiling your project?"
 date:   2017-09-04 13:37:10 +0200
 image:  /assets/man.jpg
+excerpt: Software engineers tend to put technical tasks into backlog. What problems it is causing and how to get rid of them?
 categories: craftsmanship scrum
 ---
 ![Happy developer sitting in front of a computer]({{ site.url }}/assets/man.jpg)
