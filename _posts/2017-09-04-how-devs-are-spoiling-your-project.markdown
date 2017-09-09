@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Keeping backlog clean"
+title:  "How software engineers are spoiling your project?"
 date:   2017-09-04 13:37:10 +0200
-categories: craftsmanship
+categories: craftsmanship scrum
 ---
+![Happy developer sitting in front of a computer]({{ site.url }}/assets/man.jpg)
 
 This post might be as redundant as same problem. Don't blame me. From my point of view this needs to be explained once more.
 
@@ -15,7 +16,7 @@ This post might be as redundant as same problem. Don't blame me. From my point o
 
 Ultimately it has to be just another boring project that everyone has done already somewhere else.
 
-# What is going on?
+# Why it is getting messy?
 
 I believe every team has to drive project with some kind of plan. It can be split into smaller chunks of work. Reordered. Improved. Using that set of items any team member can imagine which needs product will cover in a future. Anyone is seeing goal all the time. It can be printed out. It can be explained to anyone. Brilliant! Those people that are funding this misery can understand what is the purpose and how complex it is. They will be happy.
 
