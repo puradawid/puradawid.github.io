@@ -3,8 +3,8 @@ layout: post
 title:  "Unit tests that piss me off"
 date:   2017-09-04 13:37:10 +0200
 image:  /assets/angry_s.jpg
-excerpt: Some thing that turbo-fans of TDD are doing
-categories: craftsmanship scrum
+excerpt: Some thing that turbo-fans of TDD are doing wrong
+categories: craftsmanship
 ---
 ![Anger]({{ site.url }}/assets/angry_s.jpg)
 
