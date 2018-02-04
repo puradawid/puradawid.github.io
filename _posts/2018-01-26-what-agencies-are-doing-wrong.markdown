@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "What agencies are doing wrong?"
+title:  "What are agencies doing wrong?"
 date:   2018-01-26 13:37:10 +0200
 image:  /assets/isis_agency.jpeg
-excerpt: "Few patterns of being bad agency in IT world."
+excerpt: "Few patterns of being bad agency in the IT world."
 categories: working
 ---
 ![Archer by Adam Reed ]({{ site.url }}/assets/isis_agency.jpeg)
