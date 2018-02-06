@@ -3,7 +3,7 @@ layout: post
 title:  "What are agencies doing wrong?"
 date:   2018-01-26 13:37:10 +0200
 image:  /assets/isis_agency.jpeg
-excerpt: "Few patterns of being bad agency in the IT world."
+seo_description: "Few patterns of being bad agency in the IT world."
 categories: working
 ---
 ![Archer by Adam Reed ]({{ site.url }}/assets/isis_agency.jpeg)
@@ -26,6 +26,8 @@ already. I hope that after reading this small blog post you would be able
 to recognise patterns below and reject bad offers. Most of senior developers
 are already familiar with these, although this might save years of shame for
 inexperienced programmers. Wish you nice reading! :)
+
+<!-- more -->
 
 # Case #1: One client, one project, one you
 

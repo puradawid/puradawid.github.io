@@ -3,15 +3,20 @@ layout: post
 title:  "Unit tests that piss me off"
 date:   2017-09-04 13:37:10 +0200
 image:  /assets/angry_s.jpg
-excerpt: Some thing that turbo-fans of TDD are doing wrong
+seo_description: Some thing that turbo-fans of TDD are doing wrong
 categories: craftsmanship
 ---
 ![Anger]({{ site.url }}/assets/angry_s.jpg)
 
-First of all - I am not against writing tests or doing [TDD][tdd]. I can't understand 
-effort put in writing useless tests. This post presents only my personal opinion
-and if you are writing exactly that type of tests you can rethink those or
-simply disagree. Having different opinion is not a crime. In both directions.
+First of all - I am not against writing tests or doing [TDD][tdd]. This might
+be misinterpreted and [Uncle Bob and his TDD
+approach](https://www.youtube.com/watch?v=AoIfc5NwRks) will come here and smash
+my face. I can't understand effort put in writing useless tests. This post
+presents only my personal opinion and if you are writing exactly that type of
+tests you can rethink those or simply disagree. Having different opinion is not
+a crime. In both directions.
+
+<!-- more -->
 
 Another important thing: examples used here are written in [Java][java]-like language.
 Although it can be applicable to almost any language in the World I know (apart
