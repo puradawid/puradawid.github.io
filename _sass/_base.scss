@@ -47,6 +47,14 @@ img {
     vertical-align: middle;
 }
 
+.center {
+  text-align: center;
+
+  img {
+    max-height: 200px;
+    width: auto;
+  }
+}
 
 
 /**

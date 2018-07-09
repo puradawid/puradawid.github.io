@@ -1,9 +1,30 @@
-.post-list h2 {
-  text-align: center;
+.post-list {
+  h2 {
+    text-align: center;
+  }
+
+  img {
+    width: 100%
+  }
+
+  .center img {
+    width: auto;
+  }
 }
 
-.post-list img {
-  width: 100%
+.mobile {
+  display: none
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+  .site-title.desktop {
+    display: none
+  }
+
+  .site-title.mobile {
+    display: block
+  }
 }
 
 .post.page h1 {
@@ -20,4 +41,9 @@
 
 .rounded img {
   border-radius: 50%;
+}
+
+.annoucement {
+  background-color: lightgray;
+  padding: 10px;
 }
