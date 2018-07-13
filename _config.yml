@@ -12,7 +12,7 @@ email: puradawid@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog about software engineering and programming.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://puradawid.github.io" # the base hostname & protocol for your site
+url: "http://puradawid.pro" # the base hostname & protocol for your site
 twitter_username: puradawid 
 github_username:  puradawid
 excerpt_separator: "<!-- more -->"
