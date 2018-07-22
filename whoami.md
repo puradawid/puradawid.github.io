@@ -10,68 +10,67 @@ permalink: whoami.html
 
 <div class="tldr">
 Tldr:
-* software engineer
-* main goal: have an impact on million people
-* currently working on: [Jira][1]
+* the software engineer
+* the main goal: have an impact on million people
+* currently working on [Jira][1]
 </div>
 
 {::options parse_block_html="false" /}
 
 ## Hi there,
 
-I am glad you visit my blog. In order to make this place good for both of us
-I had to define my goal, who are you and how we both can benefit from here.
+I am glad you are here. This place has to be comfortable for both of us. I am
+going to define my goal, describe you and answer how we both can benefit from
+our symbiosis.
 
-Enjoy the reading! 
+Enjoy!
 
-### Why am I writing this blog?
+### What is the reason for writing this?
 
-My life goal is do work that has an impact on million people. I bet
-on my programming skills years ago - now participating in development of the
-most popular products on the Earth.
+I used to ask people what their life's goals are, so I am forced to write down
+mine as well. It is all about doing work that impacts on million people. I am
+dead serious here. Programming was the best skill I have ever had so far.
+Currently, I am participating in the development of the most popular products on
+the Earth.
 
-By writing this blog, I am making this progress more visible for you and
-myself. You can see my weaknesses and strengths. Visibility of these will make
-me better, eventually - I will be closer to the goal. Is it a good thesis?
-Let's try to make an experiment!
+Writing a blog is about recording thoughts, facts and context. It makes my
+progress more visible for you and myself. You can see my weaknesses and
+strengths. Visibility makes me better. Eventually, I will get closer to the
+goal. Am I right or wrong?
 
-I need you. Your opinions about my progress are important. It isn't like I
-would blindly follow the voice of majority though - I have learnt that
-different perspectives help me solve problems but they are never simple
-recipes for success.
+I need you. Your opinions about my progress matter to me. I wouldn't follow the
+majority voice though. Various perspectives helped me solve problems before,
+but they aren't simple recipes for success.
 
 ### Who is my audience?
 
-This blog is mostly for software engineers - regardless level of professionalism
-or seniority (which is not the same thing IMO). Preferably, you need to know
-what is a programming and can write some code (and read it afterwards!). Ideally,
-you are more intelligent than I am (which is not difficult) and keen on giving
-me a feedback.
+Generally, this blog is for software engineers - regardless of the level of
+professionalism or seniority (which is not the same thing IMO). Preferably, you
+can write some code (and read it afterwards!). Ideally, you are more
+intelligent and experienced than I am (which is not difficult) and keen on
+giving me a lot of feedback.
 
-There is no programming without a team and organisational process. I am going
-to scratch the surface of these topics as well. If you are familiar with
-Quality Assurance in software development industry or being agile/doing Scrum,
-you will find here something for you as well!
+Project managers, Scrum masters and QA people also welcomed here! There is no
+software without your input, ideas and hard work.
 
 ### Why should you follow it?
 
-You can find here topics mostly not related to specific programming language,
-but common patterns that emerges of most of them. Feel free to use it in your
-work! It may not be a secret knowledge mostly, but it might push your career
-forward as well. 
+We, software engineers, love patterns. We are using them all the time. I am
+going to find the one of being successful in software engineering. Sharing my
+experience may prevent you from making mistakes I have done already.
 
-Last but not least: you can observe progress in reaching the goal. Help me make
-my work useful for million people!
+Your advice, directions and thoughts will help me. You can have a real impact
+on my life. Let's make it an exciting journey!
 
 ### How can you contact me?
 
-You are really welcomed to engage:
+You are welcomed to engage by:
 
 * [Twitter][2]
 * [Github][3]
 * [Email][4]
 
-
+Comments, likes, shares and other interactions are appreciated!
 
 [1]: https://www.atlassian.com/software/jira/core
 [2]: https://twitter.com/dawidpura
