@@ -2,7 +2,7 @@
 layout: post
 title: "5 requirements of remote work"
 date: 2018-10-31 13:37:10 +0200 
-image: /assets/car_crash.jpg
+image: /assets/remote_work.jpg
 seo_description: "5 requirements programmer should meet when working from home"
 categories: working
 ---
