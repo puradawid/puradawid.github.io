@@ -12,6 +12,10 @@
   }
 }
 
+.twitter-share-button {
+  vertical-align: middle;
+}
+
 .mobile {
   display: none
 }
@@ -31,8 +35,21 @@
   text-align: center;
 }
 
-.post.page div.tldr {
-  color: gray;
+.post.page {
+  .follow-me {
+    text-align: center;
+  }
+
+  div.tldr {
+    color: gray;
+  }
+}
+
+.wrapper {
+  .call-to-action {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
 }
 
 .center {

@@ -1,5 +1,5 @@
 ---
-title: Who is Pura Dawid?
+title: Whoami?
 layout: page
 permalink: whoami.html
 ---
@@ -7,6 +7,10 @@ permalink: whoami.html
 ![Me]({{ site.url }}/assets/me.jpg)
 
 {::options parse_block_html="true" /}
+
+<div class="follow-me">
+<a href="https://twitter.com/puradawid?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @puradawid</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <div class="tldr">
 Tldr:
