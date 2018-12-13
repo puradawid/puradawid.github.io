@@ -63,4 +63,4 @@ Learn things. Be pro-active, helpful and wise. People will see that. Do extra th
 
 And read [that book][1] if you didn't yet.
 
-[1]: https://fuckwits.com
+[1]: https://amzn.to/2rymoom
