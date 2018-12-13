@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When you SHOULD NOT ask for a raise."
-date:   2018-12-18 08:00:00 +0200
+date:   2018-12-13 08:00:00 +0200
 image:  /assets/money.jpg
 seo_description: How to avoid a tremendous failure with asking for a raise.
 categories: working
