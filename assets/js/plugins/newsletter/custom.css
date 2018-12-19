@@ -1,0 +1,22 @@
+.container { max-width:728px;}
+
+.gee-popup input {
+  padding: 6px 12px;
+}
+
+.gee-popup input.email {
+  border: 1px solid black;
+}
+
+input.btn {
+  width: 100%;
+  padding: 10px 16px;
+  color: #fff;
+  border-color: #46b8da;
+  border: none;
+}
+
+input.btn:hover {
+  opacity: 0.8;
+	cursor: pointer;
+}
