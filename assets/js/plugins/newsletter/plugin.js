@@ -40,7 +40,7 @@
             if (scrollValue == settings.scrollTopPx || scrollValue > settings.scrollTopPx) {
               // call the popup
               if (hasPopuped == false) {
-                if (ga) ga('send', 'event', 'newsletter', 'open');
+                if (gtag) gtag('send', 'event', 'newsletter', 'open');
                 $.fn.jPopup.openPopup();
               }
             }
@@ -57,13 +57,13 @@
     $(".gee-popup .btn").addClass(settings.buttonClass);
     $(".popup-close-button").click(function() {
       closed();
-      if (ga) ga('send', 'event', 'newsletter', 'closed');
+      if (gtag) gtag('send', 'event', 'newsletter', 'closed');
       $('html').toggleClass('active-poup');
       hasPopuped = true;
     });
     $("form").on("submit", function() {
       subscribed();
-      if (ga) ga('send', 'event', 'newsletter', 'subscribed');
+      if (gtag) gtag('send', 'event', 'newsletter', 'subscribed');
       $.ajax({
         url: "/signup",
         method: "POST",
