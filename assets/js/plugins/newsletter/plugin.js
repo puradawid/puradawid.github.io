@@ -40,7 +40,7 @@
             if (scrollValue == settings.scrollTopPx || scrollValue > settings.scrollTopPx) {
               // call the popup
               if (hasPopuped == false) {
-                if (gtag) gtag('event', 'open_newsletter', { event_category: "newsletter" });
+                hasPopuped = true;
                 $.fn.jPopup.openPopup();
               }
             }
@@ -77,6 +77,7 @@
     });
   }
   $.fn.jPopup.openPopup = function () {
+    if (gtag) gtag('event', 'open_newsletter', { event_category: "newsletter" });
     if (window.visualViewport && window.visualViewport.width) {
       $("html").addClass('active-poup');
       $(".gee-popup").width(window.visualViewport.width);
