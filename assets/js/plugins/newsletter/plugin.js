@@ -41,7 +41,8 @@
               // call the popup
               if (hasPopuped == false) {
                 hasPopuped = true;
-                $.fn.jPopup.openPopup();
+                //$.fn.jPopup.openPopup(); //tur off because it's pissing off people
+                if (gtag) gtag('event', 'scrolled_down', { event_category: "reading" });
               }
             }
           });
