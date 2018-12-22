@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"Bug się rodzi\" - the most common Java bugs"
+title:  "Bug się rodzi - the most common Java bugs"
 date:   2018-12-22 08:00:00 +0200
 image:  /assets/xmas.jpg
 seo_description: The list of 5 most common bugs in Java code.
