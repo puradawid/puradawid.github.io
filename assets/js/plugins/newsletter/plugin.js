@@ -34,19 +34,17 @@
       buttonClass : "btn btn-info btn-block btn-lg",
       // openPopup : "asd",
       initThrough : function () {
-        if (hasNotSubsribedYet()) {
-          $(window).on('scroll', function(event) {
-            var scrollValue = $(window).scrollTop();
-            if (scrollValue == settings.scrollTopPx || scrollValue > settings.scrollTopPx) {
-              // call the popup
-              if (hasPopuped == false) {
-                hasPopuped = true;
-                //$.fn.jPopup.openPopup(); //tur off because it's pissing off people
-                if (gtag) gtag('event', 'scrolled_down', { event_category: "reading" });
-              }
+        $(window).on('scroll', function(event) {
+          var scrollValue = $(window).scrollTop();
+          if (scrollValue == settings.scrollTopPx || scrollValue > settings.scrollTopPx) {
+            // call the popup
+            if (hasPopuped == false) {
+              hasPopuped = true;
+              //$.fn.jPopup.openPopup(); //tur off because it's pissing off people
+              if (gtag) gtag('event', 'scrolled_down', { event_category: "reading" });
             }
-          });
-        }
+          }
+        });
       },
       openPopup : function () { }
     }, options);
