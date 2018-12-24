@@ -7,7 +7,7 @@ seo_description: "Hykker X Range keyboard from Biedronka broke after 2 years. He
 categories: remote_tools
 ---
 
-![Keyboard]({{ site.url }}/assets/keyboard.jpg)
+![Keyboard](/assets/keyboard.jpg)
 
 I got a brand new Hykker X Range keyboard as a gift. Its *click* and *clack* sounds are nice. It turns out that I love mechanical keyboards and won't replace my Hykker X Range for any non-mechanical keyboard, especially for typing shitload of code and full of hate emails.
 

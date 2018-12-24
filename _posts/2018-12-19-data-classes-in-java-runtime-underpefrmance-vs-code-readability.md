@@ -7,7 +7,7 @@ seo_description: How does creating data classes impact on JVM performance?
 categories: java
 ---
 
-![Espresso Lungo]({{ site.url }}/assets/programming_post.jpg)
+![Screen with some code](/assets/programming_post.jpg)
 
 > BTW: Funny thing. Let's go back to the day I started writing this blog. I thought I would never find enough topics to blog weekly. Now, the number is amazing. Optimistically, I should write about all of them in 2090. I am just saying - regardless to many people's opinion, the blog exists.
 

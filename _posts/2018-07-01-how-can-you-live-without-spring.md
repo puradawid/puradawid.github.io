@@ -6,7 +6,7 @@ image:  /assets/krtek.jpg
 seo_description: "Confitura 2018 - Maciej Próchniak's talk review"
 categories: working
 ---
-![Krtek]({{ site.url }}/assets/krtek.jpg)
+![Krtek](/assets/krtek.jpg)
 
 Spring is not the only solution for building web-based applications. There are few
 alternatives to functions it's delivering.
