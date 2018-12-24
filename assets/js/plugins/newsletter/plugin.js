@@ -1,8 +1,3 @@
-/*
-  @author: Ilyas karim <ilyas.datoo@gmail.com>
-  @date: 5/may/2016
-
-*/
 (function ($) {
 
   function hasNotSubsribedYet() {
@@ -17,71 +12,17 @@
     localStorage.setItem("newsletter", 0);
   }
 
-  setInterval(function(){
-    if (window.visualViewport && window.visualViewport.width) {
-      $(".navbar-brand").html($(document).width());
-     } else {
-      $(".navbar-brand").html($(document).width());
-    }
-  },10)
-  $.fn.jPopup = function (options) {
-    var settings = $.extend({
-      popupParent : "gee-popup",
-      scrollTopPx : 100,
-      popupCloseButton : ".popup-close-button",
-      heading : "heading - You can change",
-      paragraph : "You can change paragraph from options. You can also change the input into your own template",
-      buttonClass : "btn btn-info btn-block btn-lg",
-      // openPopup : "asd",
-      initThrough : function () {
-        $(window).on('scroll', function(event) {
-          var scrollValue = $(window).scrollTop();
-          if (scrollValue == settings.scrollTopPx || scrollValue > settings.scrollTopPx) {
-            // call the popup
-            if (hasPopuped == false) {
-              hasPopuped = true;
-              //$.fn.jPopup.openPopup(); //tur off because it's pissing off people
-              if (gtag) gtag('event', 'scrolled_down', { event_category: "reading" });
-            }
-          }
-        });
-      },
-      openPopup : function () { }
-    }, options);
-    var hasPopuped = false;
+  var hasPopuped = false;
+
+  $(window).on('scroll', function(event) {
     var scrollValue = $(window).scrollTop();
-    settings.initThrough();
-    $(".gee-popup .popup-title").html(settings.heading);
-    $(".gee-popup .paragraph").html(settings.paragraph);
-    $(".gee-popup .btn").addClass(settings.buttonClass);
-    $(".popup-close-button").click(function() {
-      closed();
-      if (gtag) gtag('event', 'closed_newsletter', { event_category: "newsletter" });
-      $('html').toggleClass('active-poup');
-      hasPopuped = true;
-    });
-    $("form").on("submit", function() {
-      subscribed();
-      if (gtag) gtag('event', 'subscribed_newsletter', { event_category: "newsletter" });
-      $.ajax({
-        url: "/signup",
-        method: "POST",
-        dataType: "text",
-        headers: { "Accept": "*/*" },
-        data: { email: $('.gee-popup .email').val() }
-      });
-      $('html').toggleClass('active-poup');
-      hasPopuped = true;
-      return false;
-    });
-  }
-  $.fn.jPopup.openPopup = function () {
-    if (gtag) gtag('event', 'open_newsletter', { event_category: "newsletter" });
-    if (window.visualViewport && window.visualViewport.width) {
-      $("html").addClass('active-poup');
-      $(".gee-popup").width(window.visualViewport.width);
-    } else {
-      $("html").addClass('active-poup');
+    if (scrollValue >= 500) {
+      if (!hasPopuped) {
+        hasPopuped = true;
+        if (gtag) {
+          gtag('event', 'scrolled_down', { event_category: "reading" });
+        }
+      }
     }
-  }
-}(jQuery))
+  });
+}(jQuery));

@@ -74,3 +74,40 @@
     text-align: center;
   }
 }
+
+form.newsletter {
+
+  text-align: left;
+
+  input {
+    padding: 8px 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  input[type="email"] {
+    width: 78%;
+
+    text-align: center;
+  }
+
+  input[type="submit"] {
+    width: 18%;
+  }
+
+  .thankyou {
+    display: none;
+    background-color: #90ee9047;
+    border: 1px solid #fafafa;
+    padding: 10px 5px;
+  }
+
+  &.done {
+    input {
+      display: none;
+    }
+
+    .thankyou {
+      display: block;
+    }
+  }
+}
