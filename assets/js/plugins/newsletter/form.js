@@ -5,7 +5,7 @@ $("form.newsletter").on("submit", function() {
     method: "POST",
     dataType: "text",
     headers: { "Accept": "*/*" },
-    data: { email: $('.gee-popup .email').val() }
+    data: { email: $('form.newsletter input[type=email]').val() }
   });
   $('form').toggleClass('done');
   return false;
