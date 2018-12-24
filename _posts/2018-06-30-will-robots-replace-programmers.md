@@ -6,7 +6,7 @@ image:  /assets/robot.jpg
 seo_description: "Short analysis are programmers be replaced by robots soon"
 categories: working
 ---
-![Archer by Adam Reed ]({{ site.url }}/assets/robot.jpg)
+![Archer by Adam Reed ](/assets/robot.jpg)
 
 The short answer is **yes and no**. But why is that?
 

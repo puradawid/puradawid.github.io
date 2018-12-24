@@ -7,7 +7,7 @@ seo_description: A story about building relationships when working remotely.
 categories: craftsmanship
 ---
 
-![Espresso Lungo]({{ site.url }}/assets/coffee.jpg)
+![Espresso Lungo](/assets/coffee.jpg)
 
 Do you like coffee? I am crazy about it: I love the roast one. I like an espresso rather than just regular, diluted cup of coffee. It has more aroma. Once I have made an exception: my coffee-maker made me "Espresso Lungo". After that day my stomach hurts every time I am drinking it again. People can connect the taste or aroma with an event in a memory. I have to remove Espresso Lungo from "my personal drinks" menu.
 

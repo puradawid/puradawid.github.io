@@ -1,7 +1,8 @@
 ---
-title: Whoami?
+title: Whoami
 layout: page
 permalink: whoami.html
+order: 0
 ---
 {:.center.rounded}
 ![Me]({{ site.url }}/assets/me.jpg)

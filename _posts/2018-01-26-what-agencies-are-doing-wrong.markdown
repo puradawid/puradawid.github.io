@@ -6,7 +6,7 @@ image:  /assets/isis_agency.jpeg
 seo_description: "Few patterns of being bad agency in the IT world."
 categories: working
 ---
-![Archer by Adam Reed ]({{ site.url }}/assets/isis_agency.jpeg)
+![Archer by Adam Reed ](/assets/isis_agency.jpeg)
 
 Agencies. They are everywhere. If you have a [Linkedin](https://linkedin.com)
 account you know exactly what I am talking about. My incoming box reminds me of

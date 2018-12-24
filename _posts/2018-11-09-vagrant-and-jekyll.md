@@ -7,7 +7,7 @@ seo_description: "Vagrant image for Jekyll development"
 categories: blogging
 ---
 
-![Jekyll on Vagrant]({{ site.url }}/assets/jekyll-on-vagrant-small.png)
+![Jekyll on Vagrant](/assets/jekyll-on-vagrant-small.png)
 
 Writing this blog is time-boxed due to my actual work. It's around 20-30 minutes a day. Yet the outcome satisfies me, at least in terms of my learn-how-to-write progress.
 
