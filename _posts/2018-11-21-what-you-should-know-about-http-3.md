@@ -7,7 +7,7 @@ seo_description: "HTTP/3 main difference. How HTTP/3 is different to HTTP/2"
 categories: blogging
 ---
 
-![Jekyll on Vagrant]({{ site.url }}/assets/http3.png)
+![Jekyll on Vagrant](/assets/http3.png)
 
 The era of HTTP/2 is almost here.
 

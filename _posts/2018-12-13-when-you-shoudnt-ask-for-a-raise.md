@@ -7,7 +7,7 @@ seo_description: How to avoid a tremendous failure with asking for a raise.
 categories: working
 ---
 
-![Girl with money]({{ site.url }}/assets/money.jpg)
+![Girl with money](/assets/money.jpg)
 
 > --- Oi, manager! I need a raise!
 > 

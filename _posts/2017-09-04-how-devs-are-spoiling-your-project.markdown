@@ -6,7 +6,7 @@ image:  /assets/man.jpg
 seo_description: Software engineers tend to put technical tasks into backlog. What problems is it causing and how to get rid of them?
 categories: craftsmanship scrum
 ---
-![Happy developer sitting in front of a computer]({{ site.url }}/assets/man.jpg)
+![Happy developer sitting in front of a computer](/assets/man.jpg)
 
 If you run an IT project, you probably familiar with failures. This happen so
 often that people are asking the same question "everything was alright all the

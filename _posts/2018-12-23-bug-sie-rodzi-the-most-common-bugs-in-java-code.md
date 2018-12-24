@@ -7,7 +7,7 @@ seo_description: The list of 5 most common bugs in Java code.
 categories: java
 ---
 
-![Santa with laptop]({{ site.url }}/assets/xmas.jpg)
+![Santa with laptop](/assets/xmas.jpg)
 
 Hello, fellow programmers! First of all, I wish you all Merry Christmas! Spend this time well, there is not many moments for rebuilding family bounds these days. This is the special, Christmas blog post. I named it that because it's fun comparison with one of the most known Polish carols (listen it [here][1], play it now) - "Bóg się rodzi". The name is "God Is Born". Polish word for God - "Bóg" - reads as same as "Bug". How programming-ready this language is!
 

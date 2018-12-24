@@ -6,7 +6,7 @@ image: /assets/car_crash.jpg
 seo_description: "Short guide how to restore file in ext filesystem."
 categories: working
 ---
-![Car crash]({{ site.url }}/assets/car_crash.jpg)
+![Car crash](/assets/car_crash.jpg)
 
 I was preparing to write a small analysis of [my first Code Kata exercise][1],
 created a run script for it and:

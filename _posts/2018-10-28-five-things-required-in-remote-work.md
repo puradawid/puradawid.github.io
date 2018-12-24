@@ -7,7 +7,7 @@ seo_description: "5 requirements programmer should meet when working from home"
 categories: working
 ---
 
-![Remote work]({{ site.url }}/assets/remote_work.jpg)
+![Remote work](/assets/remote_work.jpg)
 
 Three years ago I wasn't sure I am ready for remote work. Is it really as cool as [some people describe][ronr]?
 

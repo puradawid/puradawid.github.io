@@ -6,7 +6,7 @@ image:  /assets/angry_s.jpg
 seo_description: Some thing that turbo-fans of TDD are doing wrong
 categories: craftsmanship
 ---
-![Anger]({{ site.url }}/assets/angry_s.jpg)
+![Anger](/assets/angry_s.jpg)
 
 First of all - I am not against writing tests or doing [TDD][tdd]. This might
 be misinterpreted and [Uncle Bob and his TDD
