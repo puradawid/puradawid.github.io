@@ -54,7 +54,7 @@ Remember to check nulls where it is appropriate. It's nice to use `@Nullable` an
 Alright mate, I need file reading so:
 
 ```
-new FileInputStream(new File(filename)); 
+new FileInputStream(new File(filename));
 //some other activities below
 ```
 
@@ -63,7 +63,7 @@ But the compiler is saying the exception is not catched. Cool, let's catch it:
 
 ```
 try {
-  new FileInputStream(new File(filename)); 
+  new FileInputStream(new File(filename));
   //some other activities below
 } catch (Exception ex) {
   //what could possibly happen bad here? Empty!
@@ -158,15 +158,15 @@ public class AwesomeUtil {
 }
 
 // somewhere else...
-Awesome a = new Awesome(); // woow 
+Awesome a = new Awesome(); // woow
 ```
 
-Yeah, so in this case you want to declare non-arg constructor as private one. 
+Yeah, so in this case you want to declare non-arg constructor as a private one.
 
 ## Anyway...
 
-It was a short list - things that first come to my mind when I am looking for "bugs" that I have done many times. Even today, if something is not working my first "scrolling" across the code is for looking these nasty mistakes. probably I won't learn to trust myself :)
+It was a short list - things that first come to my mind when I am looking for "bugs" that I have done many times. Even today, if something is not working my first "scrolling" across the code is for looking these nasty mistakes. Probably I won't learn to trust myself :)
 
-Hope you will avoid these basic mistakes - you probably already do. I wish you the best - Merry Christmas! 
+Hope you will avoid these basic mistakes - you probably already do. I wish you the best - Merry Christmas!
 
 [1]: https://www.youtube.com/watch?v=SX5xO4BPRIo
