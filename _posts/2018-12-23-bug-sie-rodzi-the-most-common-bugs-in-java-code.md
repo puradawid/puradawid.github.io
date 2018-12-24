@@ -9,7 +9,7 @@ categories: java
 
 ![Santa with laptop]({{ site.url }}/assets/xmas.jpg)
 
-Hello, fellow programmers! First of all, I wish you all Merry Christmas! Spend this time well, there is not many moments in the year for rebuilding family bounds these days. This is the special, Christmas blog post. I named it that because it's fun comparison with one of the most known Polish carols (listen it [here][1], play it now) - "Bóg się rodzi". The name is "God Is Born". Polish word for God - "Bóg" - reads as same as "Bug". How programming-ready this language is!
+Hello, fellow programmers! First of all, I wish you all Merry Christmas! Spend this time well, there is not many moments for rebuilding family bounds these days. This is the special, Christmas blog post. I named it that because it's fun comparison with one of the most known Polish carols (listen it [here][1], play it now) - "Bóg się rodzi". The name is "God Is Born". Polish word for God - "Bóg" - reads as same as "Bug". How programming-ready this language is!
 
 Today, we are going to discover the most common Java bugs I have seen in my Java journey. Hope you won't find them under the Christmas Tree :D (that's another polish tradition - we are putting presents under the tree).
 
