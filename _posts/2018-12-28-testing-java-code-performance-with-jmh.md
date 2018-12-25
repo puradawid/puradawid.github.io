@@ -3,7 +3,7 @@ layout: post
 title:  "Testing Java code performance with JMH"
 date:   2018-12-28 08:00:00 +0200
 image:  /assets/JMH.jpg
-seo_description: The list of 5 most common bugs in Java code.
+seo_description: Testing Java code performance with JMH framework - practical example for software engineers
 categories: java
 ---
 
