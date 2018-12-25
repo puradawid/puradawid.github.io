@@ -17,7 +17,7 @@ What do you think? Am I, in fact, totally wrong here?
 
 ## How to run JMH
 
-Not much code has to be used. At first, I had to create a submodule from an archetype:
+You can find the code [here][4]. Not much code has to be used. At first, I had to create a submodule from an archetype:
 
 ```
 mvn archetype:generate \
@@ -116,3 +116,4 @@ Write microbenchmarks, test your code, have fun with performance (or better not,
 [1]: /java/2018/12/19/data-classes-in-java-runtime-underpefrmance-vs-code-readability.html
 [2]: https://amzn.to/2Cme1m9
 [3]: https://openjdk.java.net/projects/code-tools/jmh/
+[4]: https://github.com/puradawid/java-constructor-microbenchmark
