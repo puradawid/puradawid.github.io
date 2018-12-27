@@ -14,70 +14,55 @@ order: 0
 </div>
 
 <div class="tldr">
-Tldr:
-* the software engineer
-* the main goal: have an impact on million people
-* currently working on [Jira][1]
+
 </div>
 
 {::options parse_block_html="false" /}
 
 ## Hi there,
+I am Dawid Pura - a software engineer, a father of four cats, a homebrewer. I am already working for 5+ years in the software industry - being successful in big and small companies: healthcare startups, insurance, airlines and one of the biggest bank in the world. Currently, I am participating in the development of the most popular products on Earth. I earn for living by writing high-quality code, making it useful for business and consulting already implemented solutions for further maintenance.
 
-I am glad you are here. This place has to be comfortable for both of us. I am
-going to define my goal, describe you and answer how we both can benefit from
-our symbiosis.
+But I think I can do much more - teach other programmers how to be more successful in their careers.
 
-Enjoy!
+So, if you ever asked yourself these questions:
+* **how can you earn more money for work you are doing?**
+* **how can you be happy at work even when maintaining some legacy code?**
+* **will technology, which you are expert in, going to give you more profit in the next years?**
+* **how can you keep programming a passion for years?**
+* **how can you boost the career up?**
+* **how can you have more value and impact than other people do?**
+* **is the software engineering market going to crash soon?**
 
-### What is the reason for writing this?
+... we are on the same page. These questions are chasing me all the time. Don't worry though - I am going to share my answers with you!
 
-I used to ask people what their life's goals are, so I am forced to write down
-mine as well. It is all about doing work that impacts on million people. I am
-dead serious here. Programming was the best skill I have ever had so far.
-Currently, I am participating in the development of the most popular products on
-the Earth.
+There are gazillions of software engineers out there. Most of them are just using the rise of the market in an average way: asking for a rise from time to time, waiting for the next market growth. They are not going to change their lives in order to invest more than they have to. But not you and me - we are going to rule the World. We invest our best time in order to be better programmers and people. It's our time. We are going to **learn the right things, improve our craft and become the top 1% of the programmers** before the software engineering market will go down.
 
-Writing a blog is about recording thoughts, facts and context. It makes my
-progress more visible for you and myself. You can see my weaknesses and
-strengths. Visibility makes me better. Eventually, I will get closer to the
-goal. Am I right or wrong?
+Imagine a 15 years-old guy is telling his mom he is going to be a software developer one day. That was me. Imagine that she told me:
 
-I need you. Your opinions about my progress matter to me. I wouldn't follow the
-majority voice though. Various perspectives helped me solve problems before,
-but they aren't simple recipes for success.
+> Oh, no, you are going to be a poor guy sitting somewhere in a basement and eating pizza...
 
-### Who is my audience?
+These days it was true. Programmers were doing shitty work after dot com bubble after 2000 in Poland. Essentially, a one could find a job in a post office, using their skills to fix computers or writing macros for Microsoft tools. 
 
-Generally, this blog is for software engineers - regardless of the level of
-professionalism or seniority (which is not the same thing IMO). Preferably, you
-can write some code (and read it afterwards!). Ideally, you are more
-intelligent and experienced than I am (which is not difficult) and keen on
-giving me a lot of feedback.
+Well, it didn't end up that way - yet. I have started my career when it wasn't cool yet back then and still, I was spending all my free time to learn even more.
 
-Project managers, Scrum masters and QA people also welcomed here! There is no
-software without your input, ideas and hard work.
+Many people are still asking me if I am fixing computers - after all these years, they see me travelling to London or other cities, having discussions about software delivery and doing world-wide businesses they still ask the question:
 
-### Why should you follow it?
+> Since you are the computer expert, will you reinstall my Windows one day?
 
-We, software engineers, love patterns. We are using them all the time. I am
-going to find the one of being successful in software engineering. Sharing my
-experience may prevent you from making mistakes I have done already.
+The funny thing is: I *can* do it, but probably I could even build an atomic bomb if a tutorial on Youtube was available. Yes, most software engineers  are that smart!
 
-Your advice, directions and thoughts will help me. You can have a real impact
-on my life. Let's make it an exciting journey!
+I am going to speed up us a little by writing blog posts and publishing things that you and I need to know: books we have to read, technologies we need to play with and concepts we need to include in our projects. Stay tuned and sharp - let's make this market harder :).
 
-### How can you contact me?
+The next steps for you: 
 
-You are welcomed to engage by:
-
-* [Twitter][2]
-* [Github][3]
-* [Email][4]
+* Sing up to my [newsletter][5]
+* Follow me on [Twitter][2]
+* Check out my repositories on [Github][3]
+* [Email][4] me if you have any questions
 
 Comments, likes, shares and other interactions are appreciated!
 
-[1]: https://www.atlassian.com/software/jira/core
 [2]: https://twitter.com/dawidpura
 [3]: https://github.com/puradawid
-[4]: mailto:puradawid+blog@gmail.com
+[4]: mailto:contact@puradawid.pro
+[5]: /newsletter.html
