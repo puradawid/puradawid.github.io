@@ -62,7 +62,7 @@ The next steps for you:
 
 Comments, likes, shares and other interactions are appreciated!
 
-[2]: https://twitter.com/dawidpura
+[2]: https://twitter.com/puradawid
 [3]: https://github.com/puradawid
 [4]: mailto:contact@puradawid.pro
 [5]: /newsletter.html
