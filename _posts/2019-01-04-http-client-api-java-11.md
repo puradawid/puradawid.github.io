@@ -86,7 +86,6 @@ Java 11 has many new APIs that we can benefit with - without using additional de
 * WebSockets support
 * async and sync API
 
-
 ## `HttpClient` class
 
 Class of the client. You can set up a connection way - proxy, SSL setup, etc.
