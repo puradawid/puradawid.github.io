@@ -20,5 +20,5 @@ excerpt_separator: "<!-- more -->"
 # Build settings
 markdown: kramdown
 
-plugins_dir:
+plugins:
   - jekyll-sitemap
