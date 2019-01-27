@@ -16,6 +16,7 @@ url: "https://puradawid.pro" # the base hostname & protocol for your site
 twitter_username: puradawid 
 github_username:  puradawid
 excerpt_separator: "<!-- more -->"
+permalink: /:categories/:title:output_ext
 
 # Build settings
 markdown: kramdown
