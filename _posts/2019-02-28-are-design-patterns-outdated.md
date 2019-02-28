@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are design patterns gone already? (poll!)"
-date:   2019-02-28 19:00:00 +0200
+date:   2019-02-28 17:00:00 +0200
 image:  /assets/designpatterns.jpg
 seo_description: Design patterns in software development gone 
 categories: java
