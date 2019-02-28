@@ -25,12 +25,7 @@ Well, my personal perspective says: not really. There are not many patterns here
 
 Let's do the Google Trends then:
 
-{::options parse_block_html="true" /}
-  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script>
-  <script type="text/javascript">
-    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"design patterns","geo":"","time":"2004-01-01 2019-02-28"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=design%20patterns","guestPath":"https://trends.google.com:443/trends/embed/"});
-  </script>
-{::options parse_block_html="false" /}
+![Design Patterns Google Trend](/assets/designpatternstrends.png)
 
 It looks like the trend is going down over time. Is it sad? Are we just done with "reusable" code? I am looking forward to read your opinion.
 
