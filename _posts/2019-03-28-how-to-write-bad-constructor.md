@@ -7,7 +7,7 @@ seo_description: Bad smells in Java constructor's code
 categories: java
 ---
 
-![Design Patterns book](/assets/constructors.jpg)
+![An engineer looking for well designed constructor but deadline is coming](/assets/constructors.jpg)
 
 Constructors in object oriented programming are very important static methods - they start an existence of every object. Regular Java code is full of constructors, and we actually used to them as well. But can constructors be better and worse? Sure. I made a list of 4 bad constructor rules that came up first to my head.
 
@@ -19,7 +19,7 @@ Good practices are so boring so let's see how we can make other engineers' life 
 
 Have you seen that before? A long code constructors mean they are doing a lot of important stuff. Don't let people read code straightforward - make it hard to understand. Remember - your job security is the top priority here.
 
-![lifting](/assets/lifting.gif)
+![failed lifting](/assets/lifting.gif)
 
 #### Things To Do
 
@@ -127,7 +127,7 @@ class ChannelController {
 
 {% endhighlight %}
 
-![Nulls](/assets/nulls.jpg)
+![Baz explains that nulls are everywhere](/assets/nulls.jpg)
 
 #### Things To Do
 
