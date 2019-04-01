@@ -34,3 +34,7 @@ $("form.newsletter").on("submit", function() {
   $('form').toggleClass('done');
   return false;
 });
+
+$(".linkedin,.email,.bio").on("click", function (e) {
+  if (gtag) gtag('event', 'contact', { event_category: e.target.className });
+});
