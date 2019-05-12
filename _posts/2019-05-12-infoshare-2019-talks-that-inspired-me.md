@@ -2,7 +2,7 @@
 layout: post
 title:  "InfoShare 2019 - Talks that Inspired Me"
 date:   2019-05-12 10:00:00 +0200
-image:  /assets/infoshare/me.jpg
+image:  /assets/infoshare/me_infoshare.jpg
 seo_description: Infoshare 2019 the best talks for marketing/programming person
 categories: working
 ---
