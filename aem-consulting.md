@@ -2,6 +2,7 @@
 title: AEM Consulting
 layout: page
 permalink: aem-consulting.html
+seo_description: Consult your Adobe Experience Manager case with professional, certified AEM developer
 order: 10
 ---
 {:.center.rounded}

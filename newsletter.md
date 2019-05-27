@@ -2,6 +2,7 @@
 title: Newsletter
 layout: page
 permalink: newsletter.html
+seo_description: Sign up for newsletter to receive information about my new blog posts
 order: 3
 ---
 

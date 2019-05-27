@@ -2,6 +2,7 @@
 title: "Work life"
 layout: category
 category: working
+seo_description: The blog category about working as a programmer, managing software engineers's career and passion
 order: 2
 ---
 

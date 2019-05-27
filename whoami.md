@@ -2,6 +2,7 @@
 title: Whoami
 layout: page
 permalink: whoami.html
+seo_description: Who is Dawid Pura? Programmer, Adobe Experience Manager Consultant and Developer
 order: 0
 ---
 {:.center.rounded}
