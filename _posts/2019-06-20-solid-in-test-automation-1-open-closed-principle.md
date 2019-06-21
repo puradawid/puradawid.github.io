@@ -74,7 +74,7 @@ As you probably noticed I was using the two authors during this time: Tomek Kacz
 
 I honestly agree with James, however I feel like thousands light years away from the proper object-oriented programming. I hope I will get that someday though.
 
-If you are not yet bored about testing, watch [Ian's Cooper talk about TDD revisited][7], which will definitely improve you perspective of writing code and keeping it decoupled with the implementation. That presentation made me to write this blogpost, as I believe this is the most important topic for programmer's excellence and we as a craft are not done with it yet.
+If you are not yet bored about testing, watch [Ian Cooper's talk about TDD revisited][7], which will definitely improve you perspective of writing code and keeping it decoupled with the implementation. That presentation made me to write this blogpost, as I believe this is the most important topic for programmer's excellence and we as a craft are not done with it yet.
 
 #### Advertisement: puradawid.pro first Twitch programming session!
 
