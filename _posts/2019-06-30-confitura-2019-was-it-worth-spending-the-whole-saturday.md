@@ -23,7 +23,7 @@ But guess what? No. Fuck it. It's not that simple. Confitura is the place where 
 
 So, we kept up our good mood, got registered (the idea with paper-less QR codes is very admirable), being quite late we went to the Tomek Kucharski's keynote (going through the history of software development industry), took another coffee and... started Confitura for real.
 
-#### Jakub Nabrdalik - Common mistakes when moving to microservices & cloud
+#### [Jakub Nabrdalik][jnabrdalik] - Common mistakes when moving to microservices & cloud
 
 !["Enterprise Architect job description is high-level bullshit says Jakub Nabrdalik"](/assets/confitura_2019/jakub_nabrdalik.jpg)
 
@@ -40,7 +40,7 @@ The key takeaways are:
 
 What I was missing (maybe literally I missed that, considering that 5 o'clock wake up) though - that not every company needs to take a microservices shift,  as architecture comes from organisation, not the other way around. Maybe that was too obvious but still, we can observe companies failing to do so because of many reasons, including "it turns out we don't need microservices" phrase.
 
-#### Jarosław Ratajski - Spring, Jakarta EE, CDI and other abominations
+#### [Jarosław Ratajski][jratajski] - Spring, Jakarta EE, CDI and other abominations
 
 !["Annotation magic is GOTO of the modern programming industry"](/assets/confitura_2019/jaroslaw_ratajski.jpg)
 
@@ -79,7 +79,9 @@ Looking forward to the next edition!
 
 [kociamadka]: https://kociamadka.pl
 [jnabrdalik_1]: https://www.youtube.com/watch?v=ILBX9fa9aJo&t=
+[jnabrdalik]: https://twitter.com/jnabrdalik
 [jnabrdalik_safd]: https://softwarearchitecturefordevelopers.com/
+[jratajski]: https://twitter.com/jarek000000
 [mprochniak_1]: {% post_url 2018-07-01-how-can-you-live-without-spring %}
 [mprochniak]: https://twitter.com/mpproch
 [lenart]: https://twitter.com/lukaszlenart
