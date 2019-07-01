@@ -52,7 +52,7 @@ If someone remembers [my reaction on Maciej Próchniak's talk year ago][mprochni
 
 > Personally, I don’t believe that dependency injection is something that every projects needs (are constructors not enough?). If setting up dependency injection or making classes injectable through it are the very first things to do in your project, it is simply the wrong approach. Focus on a real function of your application is the only thing you should spend your time on.
 
-So now, Jarek, as opposed to [Maciej] last year, was showing up problems with annotation-based dependency injection, ORM, transactions and aspects in general. So the bottom line was:
+So now, Jarek, as opposed to [Maciej][mprochniak] last year, was showing up problems with annotation-based dependency injection, ORM, transactions and aspects in general. So the bottom line was:
 
 > Annotation-based magic, like @Inject or @Transactional, are GOTO statements of modern software engineering.
 
