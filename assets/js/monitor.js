@@ -29,7 +29,7 @@ function Paragraph(element, number, document) {
     return { action: 'read_paragraph',
       details: {
         event_category: 'reading',
-        event_label: 'paragraph_' + this.number
+        event_label: 'paragraph_' + Number(this.number).toString().padStart(3, 0)
       }};
   };
 }
