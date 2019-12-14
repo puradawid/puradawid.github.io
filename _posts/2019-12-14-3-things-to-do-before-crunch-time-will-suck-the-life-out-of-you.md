@@ -25,6 +25,10 @@ The good thing is I was able to retrospectively go through things that we have f
 
 The list was organised for doing top things earlier, as they will benefit more when done at the beginning of the project.
 
+I have decided to share a mind map with you. I am normally preparing such thing before each blog post but now I am convinced not all of you are comfortable with my writing so I am sharing a format for you too. If it's too big, open in the new window!
+
+[![Mindmap for blogpost overview](/assets/depression/mindmap.png)](/assets/depression/mindmap.png)
+
 ### #1 Deploy to production as soon as possible
 
 ![Deploy to production NOW!](/assets/depression/bombs.jpg)
@@ -47,7 +51,7 @@ If you have multiple business stakeholders or product owner - ask them do use yo
 
 Keep in mind that Product Owner testing won't cover the real user's perspective. It's very good to have PO's review but it's not enough. You need people from outside, which are not tightly related with application as well. They aren't requirements or directions providers but can point out things you haven't seen even they were there for a long, long time. You don't have to do whatever users say but observe them, their actions on and with product. That's not easy, it requires you brain, but it's beneficial in a long run.
 
-### #3 Do audits on regular basis
+### #3 Do audits on a regular basis
 
 ![Audits are helpful](/assets/depression/inspection.jpg)
 
