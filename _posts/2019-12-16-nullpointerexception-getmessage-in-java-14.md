@@ -3,7 +3,7 @@ layout: post
 title:  "NullPointerException::getMessage() in Java 14 - a helpful tool or an useless feature?"
 date:   2019-12-16 18:50:00 +0200
 image: /assets/npes/header.png
-seo_description: NullPointerExceptions are hard to investigate. How to do it with new feature in Java 14?
+seo_description: NullPointerExceptions are hard to investigate - especially on production. How to do it much better in Java 14?
 categories: java
 ---
 
