@@ -3,7 +3,7 @@ layout: post
 title:  "The 3 popular abuses of OSGi bundle"
 date:   2019-12-27 18:50:00 +0200
 image: /assets/osgi_abuses/xmas.jpg
-seo_description:
+seo_description: OSGi bundles can be abused in multiple ways - but here's the top 3.
 categories: java
 ---
 
