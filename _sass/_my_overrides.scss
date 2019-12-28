@@ -112,3 +112,9 @@ form.newsletter {
     }
   }
 }
+
+.post-content, .post-excerpt {
+  * {
+    line-height: 2rem;
+  }
+}
