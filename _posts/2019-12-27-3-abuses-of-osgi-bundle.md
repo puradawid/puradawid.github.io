@@ -15,7 +15,7 @@ The last Christmas article - [about most common Java bugs]({% post_url 2018-12-2
 
 ### What's OSGi all about?
 
-In a one sentence - OSGi has been made for sorting out ancient Java classpath problem. In other words, when your jar depends on A, B and C and the other library you are using or a team that contribute to the same system is using A, B and C but in different versions and you can't just upgrade them with major cost - OSGi comes as a one of solutions.
+In a one sentence - OSGi has been made for sorting out ancient Java classpath problem. In other words, when your jar depends on A, B and C and the other library you are using or a team that contribute to the same system is using A, B and C but in different versions and you can't just upgrade them without major cost - OSGi comes as a one of solutions.
 
 Some people will say **that's not true, OSGi is much more than that**. True, it has multiple features I haven't mentioned, but it shouldn't be a reason to use it, just the other way around: if you have multiple teams in your organisation or you want to allow complex, independent plugins - here you go, OSGi may be useful for you. As an alternative, especially in web-based applications, you can jump into micro-services and solve this on a much higher level. Remember, microservices come with cost of putting network between your function calls - which might be unacceptable in some cases.
 
