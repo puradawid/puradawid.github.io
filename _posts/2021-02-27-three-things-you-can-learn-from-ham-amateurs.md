@@ -9,7 +9,7 @@ categories: working
 
 ![My own FT 897 radio rig](/assets/ham/ft897.jpg)
 
-Software is a young and exponentially growing industry. Many developers think, especially in my beloved web dev, that we left our scientific culture foundation and moved to something that is driven mostly by fashion.  Can we bring good patterns from other, much older industries? Recently, I joined the ham radio community, became a licensed operator, and I have 5 things to share with you that we should consider in the software development world: licensing, conversation schema, openness for change, regular drills. I think these points may sound controversial, hence in this blog post, I am going to explain each of them.
+Software is a young and exponentially growing industry. Many developers think, especially in my beloved web dev, that we left our scientific culture foundation and moved to something that is driven mostly by fashion.  Can we bring good patterns from other, much older industries? Recently, I joined the ham radio community, became a licensed operator, and I have 3 things to share with you that we should consider in the software development world: conversation schema, openness for change, regular drills. I think these points may sound controversial, hence in this blog post, I am going to explain each of them.
 
 <!-- more -->
 
