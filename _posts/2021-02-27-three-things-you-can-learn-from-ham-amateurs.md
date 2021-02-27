@@ -3,7 +3,7 @@ layout: post
 title: "Those Who Did Not Extinct: 3 Things You Can Learn From Ham Radio Operator"
 date:   2021-02-27 08:00:00 +0200
 image: /assets/ham/ft897.jpg
-seo_description: Amateur Radio Good Patterns for Programmers
+seo_description: How Amateur Radio Community Is Doing After Almost 100 Years?
 categories: working
 ---
 
@@ -70,4 +70,10 @@ First of all, do we need to have any accountability for things we're doing? Yes,
 
 As a food thought: what knowledge is common for all programmers? Maybe it is one of the base design concepts, like functional or object-oriented programming? Agile methodology? TDD? Let me know in the comments section, I would like to discuss the possibilities.
 
-http://www.astrosurf.com/luxorion/qsl-hamspirit.htm
+## Got Interested in Ham Radio?
+
+Here's further reading:
+
+* [IARU Website](https://www.iaru-r1.org/)
+* [HAM Spirit Explained](http://www.astrosurf.com/luxorion/qsl-hamspirit.htm)
+*
