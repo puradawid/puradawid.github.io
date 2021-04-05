@@ -45,8 +45,8 @@
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
   {% elsif page.image %}
-    <meta property="og:image" content="https://puradawid.github.io{{page.image}}" />
-    <meta name="twitter:image" content="https://puradawid.github.io{{page.image}}" />
+    <meta property="og:image" content="https://puradawid.pro{{page.image}}" />
+    <meta name="twitter:image" content="https://puradawid.pro{{page.image}}" />
   {% endif %}
 
   {% else %}
@@ -54,5 +54,8 @@
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{{site.title}}" />
+    <meta property="og:image" content="https://puradawid.pro/assets/me.jpg" />
+    <meta name="twitter:image" content="https://puradawid.pro/assets/me.jpg" />
   {% endif %}
+  {% include favicons.html %}
 </head>

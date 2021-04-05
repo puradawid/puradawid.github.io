@@ -1,0 +1,11 @@
+{
+  "name": "puradawid.pro-monitor",
+  "version": "1.0.0",
+  "description": "Monitor package for events",
+  "main": "monitor.js",
+  "scripts": {
+    "test": "eslint"
+  },
+  "author": "",
+  "license": "ISC"
+}
