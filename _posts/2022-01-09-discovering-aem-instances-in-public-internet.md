@@ -31,11 +31,11 @@ In this article, however, I would like to perform a similar discovery based on r
 
 I use AEM Hacker software for checking the state of the existing website.
 
-## Approach
+## The Approach
 
 The hypothesis is: 
 
-> Paths to assets, scripts or websites in HTML disclose AEM website
+> Paths to assets, scripts or websites in HTML disclose the fact that AEM serves the tested page
 
 The test has to go through the Internet, fetch random 200 responses, inspect their bodies, and mark ones that have specific paths within.
 
@@ -54,7 +54,6 @@ This simple program checks whether the website is AEM or not. For my testing lis
 
 {% highlight python %}
 def check(base_url, debug, proxy):
-
     response = http_request(base_url)
     result = re.findall('[\w]*[ ]*=[ ]*\"(?:/content/dam/|/etc.clientlibs/)[^\"]+\"', response.text)
     if result:
@@ -98,6 +97,7 @@ class QuotesSpider(scrapy.Spider):
 
     def parse(self, response):
 
+        # Do not parse documents which are not HTML
         if not re.search('text/html', response.headers['Content-Type'].decode('utf-8')):
             return
 
@@ -142,7 +142,7 @@ Once executed, `result.jl` contains new-line separated JSON objects with the res
 }
 {% endhighlight %}
 
-I have manually validated those entries before moving any further. Then, I wrote an additional script that combines these into a list of hostnames based on a single map to reduce duplicates:
+I have manually validated entries before moving any further. They were valid links, either to scripts or assets, with AEM specific paths. Then, I wrote an additional script that combines these into a list of hostnames based on a single map to reduce duplicates:
 
 {% highlight python %}
 import json
@@ -163,7 +163,7 @@ for domain in result:
     print(domain)
 {% endhighlight %}
 
-(I posted the working implementation on Github.)[https://github.com/puradawid/discover-aem]
+[I posted the working implementation on Github.](https://github.com/puradawid/discover-aem)
 
 ## Results
 
@@ -208,9 +208,9 @@ After running the script for 30 minutes I have discovered the list of some websi
 * www.unilevernotices.com
 * www.synopsys.com
 * www.bsimm.com
-* us.aicpa.org
+* [us.aicpa.org](https://us.aicpa.org)
 * www.salesforce.com
-* business.amazon.it
+* [business.amazon.it](https://business.amazon.it)
 * www.geotrust.com
 * www.digicert.com
 * knowledge.digicert.com
@@ -226,3 +226,9 @@ To discover that knowledge, one can:
 * improve the limit of pages visited
 * add more accurate checks - I would think of using AEM-specific libraries, like Granite
 * use a proper infrastructure to crawl the whole Internet
+
+## Further Research
+
+Dozens of AEM instances creates a potential for further research in a field of used practices. A researcher can find out which components are popular, what approaches a developer team have taken, etc.
+
+I would love to see proper quantitive studies created to improve overall AEM development, technical excellence and the current state of the market, to enhance the workforce and focus on the fields that matter the most. Independent conclusions will improve the state of the knowledge and future development of the CMS that seems to conquer more market's space every year.
