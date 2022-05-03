@@ -1,6 +1,7 @@
 .post-list {
   h2 {
     text-align: center;
+    font-weight: 600;
   }
 
   img {
@@ -117,6 +118,10 @@ form.newsletter {
   * {
     line-height: 2rem;
   }
+  
+  h2 {
+    margin-top: 30px;
+  }
 }
 
 p, li {
@@ -129,4 +134,8 @@ p, li {
 h2 {
   font-family: "Roboto";
   font-size: 30px;
+}
+
+article.post h1.post-title {
+  font-weight: 600;
 }
