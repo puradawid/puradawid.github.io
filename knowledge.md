@@ -19,3 +19,7 @@ I have decided to share with you lots of links that I used to use from day to da
 ### HTML
 
 * <https://github.com/hail2u/html-best-practices> - set of best practices in HTML, worth reading and following
+
+### Publishing
+
+* <https://www.giss.nasa.gov/tools/latex/ltx-2.html> - excellent reference for all LaTeX commands and environments, very helpful while writing some publications or specifications available for wider audience
