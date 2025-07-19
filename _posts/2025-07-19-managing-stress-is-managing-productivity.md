@@ -12,7 +12,7 @@ tags:
   - burnout
   - agile
   - communication
-image: /assets/stress/three-developers-stress.jpg
+image: /assets/three-developers-stress.png
 image_alt: "Three developers showing boredom, productivity, and burnout"
 seo_description: "Practical strategies for understanding and managing stress in \
 high-pressure software development teams."
