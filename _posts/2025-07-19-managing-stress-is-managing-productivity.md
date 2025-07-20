@@ -18,6 +18,8 @@ seo_description: "Practical strategies for understanding and managing stress in 
 high-pressure software development teams."
 ---
 
+![Three developers representing being under low pressure, effective, and burnt out](/assets/three-developers-stress.png)
+
 *Inspired by [Gert Kaluza’s Calm and Confident Under Stress: The Stress
 Competence Book](https://link.springer.com/book/10.1007/978-3-662-64440-9)
 (Springer, 2022) and my years of experience both writing code and assigning tasks.*
