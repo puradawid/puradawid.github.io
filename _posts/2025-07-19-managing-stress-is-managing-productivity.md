@@ -34,6 +34,8 @@ and even where they are in life. Someone new to a codebase or wrestling with
 imposter syndrome may feel heightened pressure, while a seasoned engineer
 tackling an unfamiliar framework can also find their stress levels spiking.
 
+<!-- more -->
+
 At its core, stress is influenced by both external triggers and internal
 perceptions. We might feel stress simply because we lack expertise on a topic,
 carry unresolved anxieties from past experiences, or anticipate criticism from
