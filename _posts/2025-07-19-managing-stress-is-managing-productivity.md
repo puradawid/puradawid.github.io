@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Dealing with Stress in Demanding Work Environments"
 date: 2025-07-19 08:00:00 +0200
@@ -13,11 +14,10 @@ tags:
   - communication
 image: /assets/three_developers_stress.png
 image_alt: "Three developers showing boredom, productivity, and burnout"
-seo_description: "Practical strategies for understanding and managing stress in \
-high-pressure software development teams."
+seo_description: "Practical strategies for understanding and managing stress in high-pressure software development teams."
+---
 
-![Three developers representing being under low pressure, effective, and \
-burnt out](/assets/three_developers_stress.png)
+![Three developers representing being under low pressure, effective, and burnt out](/assets/three_developers_stress.png)
 
 *Inspired by [Gert Kaluza’s Calm and Confident Under Stress: The Stress \
 Competence Book](https://link.springer.com/book/10.1007/978-3-662-64440-9) \
