@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Blog Writer"
+  short_description: "Write strong software-engineering blog posts"
+  default_prompt: "Use $engineering-blogpost-writer to draft a well-structured article for this Jekyll blog."
