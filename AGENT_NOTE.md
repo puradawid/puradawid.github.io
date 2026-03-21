@@ -7,6 +7,7 @@ If the technical structure of the site changes, update [ARCHITECTURE.md](./ARCHI
 Current canonical architecture reference:
 
 - [ARCHITECTURE.md](./ARCHITECTURE.md)
+- [POST_WRITING_GUIDE.md](./POST_WRITING_GUIDE.md) for the blog post structure, metadata, and authoring conventions
 
 Current preferred local preview path:
 
@@ -18,4 +19,5 @@ Expected use in future sessions:
 
 - Read this file early when repo context matters.
 - Treat `ARCHITECTURE.md` as the source of truth for stack, build flow, layout structure, styling, and integrations.
+- Treat `POST_WRITING_GUIDE.md` as the source of truth for creating new posts.
 - Extend `ARCHITECTURE.md` instead of creating duplicate architecture summaries unless the user asks for a separate document.
