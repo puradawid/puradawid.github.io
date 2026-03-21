@@ -23,3 +23,21 @@ markdown: kramdown
 
 plugins:
   - jekyll-sitemap
+
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - bootstrap.sh
+  - preview-wsl.ps1
+  - Vagrantfile
+  - AGENT_NOTE.md
+  - ARCHITECTURE.md
+  - DEPLOYMENT.md
+  - POST_WRITING_GUIDE.md
+  - Gemfile
+  - Gemfile.lock
+  - .github
+  - .gitignore
+  - .dockerignore
+  - _do
+  - _book
