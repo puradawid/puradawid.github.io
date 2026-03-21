@@ -1,5 +1,5 @@
 ---
-title: Whoami
+title: About me
 layout: page
 permalink: whoami.html
 seo_description: Who is Dawid Pura? Programmer, Adobe Experience Manager Consultant and Developer
@@ -21,42 +21,42 @@ order: 0
 {::options parse_block_html="false" /}
 
 ## Hi there,
-I am Dawid Pura - a software engineer, a father of four cats, a homebrewer. I am already working for 5+ years in the software industry - being successful in big and small companies: healthcare startups, insurance, airlines and one of the biggest bank in the world. Currently, I am participating in the development of the most popular products on Earth. I earn for living by writing high-quality code, making it useful for business and consulting already implemented solutions for further maintenance.
+I am Dawid Pura, a software engineer, a father of four cats, and a homebrewer. I have spent more than five years in the software industry, working in both small and large organizations, including healthcare startups, insurance, airlines, and one of the biggest banks in the world. Today, I make a living by writing high-quality code, delivering useful systems, and helping teams improve and maintain what they have already built.
 
-But I think I can do much more - teach other programmers how to be more successful in their careers.
+I also believe I can do more than just deliver software. I want to help other programmers build stronger, more durable careers.
 
 So, if you ever asked yourself these questions:
-* **how can you earn more money for work you are doing?**
-* **how can you be happy at work even when maintaining some legacy code?**
-* **will technology, which you are expert in, going to give you more profit in the next years?**
-* **how can you keep programming a passion for years?**
-* **how can you boost the career up?**
-* **how can you have more value and impact than other people do?**
-* **is the software engineering market going to crash soon?**
+* **how can you earn more for the work you already do?**
+* **how can you stay happy at work even when maintaining legacy code?**
+* **will the technology you are expert in still be valuable in the next few years?**
+* **how can you keep programming a passion for the long term?**
+* **how can you move your career forward?**
+* **how can you create more value and have more impact than the average engineer?**
+* **is the software engineering market going to slow down or change dramatically?**
 
-... we are on the same page. These questions are chasing me all the time. Don't worry though - I am going to share my answers with you!
+... then we are on the same page. These questions have been following me for years, and this blog is where I work through them in public.
 
-There are gazillions of software engineers out there. Most of them are just using the rise of the market in an average way: asking for a rise from time to time, waiting for the next market growth. They are not going to change their lives in order to invest more than they have to. But not you and me - we are going to rule the World. We invest our best time in order to be better programmers and people. It's our time. We are going to **learn the right things, improve our craft and become the top 1% of the programmers** before the software engineering market will go down.
+There are countless software engineers out there. Many are simply riding the market upward: asking for a raise from time to time, waiting for the next wave, and investing only as much effort as necessary. I am interested in something else. I want to spend my best time becoming a better engineer and a better person. The goal is to **learn the right things, improve the craft, and become part of the top 1% of programmers** before the market inevitably changes again.
 
-Imagine a 15 years-old guy is telling his mom he is going to be a software developer one day. That was me. Imagine that she told me:
+Imagine a 15-year-old boy telling his mother that one day he is going to become a software developer. That was me. Imagine her replying:
 
 > Oh, no, you are going to be a poor guy sitting somewhere in a basement and eating pizza...
 
-These days it was true. Programmers were doing shitty work after dot com bubble after 2000 in Poland. Essentially, a one could find a job in a post office, using their skills to fix computers or writing macros for Microsoft tools. 
+At the time, that was not an absurd fear. In Poland, after the dot-com crash, programmers were often associated with low-status technical work: fixing computers, writing office macros, and doing jobs that looked far from glamorous.
 
-Well, it didn't end up that way - yet. I have started my career when it wasn't cool yet back then and still, I was spending all my free time to learn even more.
+It did not end up that way. I started this path before software careers were fashionable, and I still spent my free time learning more.
 
-Many people are still asking me if I am fixing computers - after all these years, they see me travelling to London or other cities, having discussions about software delivery and doing world-wide businesses they still ask the question:
+Even now, after years of working professionally, traveling, and talking to people about software delivery and business, some still ask me:
 
 > Since you are the computer expert, will you reinstall my Windows one day?
 
-The funny thing is: I *can* do it, but probably I could even build an atomic bomb if a tutorial on Youtube was available. Yes, most software engineers  are that smart!
+The funny thing is: I *can* do it. But I could probably also build something much more dangerous if there were a good enough tutorial on YouTube. Most engineers are far more capable than people assume.
 
-I am going to speed up us a little by writing blog posts and publishing things that you and I need to know: books we have to read, technologies we need to play with and concepts we need to include in our projects. Stay tuned and sharp - let's make this market harder :).
+This blog is my way of speeding things up a little. I write about the books worth reading, the technologies worth exploring, and the concepts worth bringing into real projects. Stay sharp and keep learning. The market should be harder, not softer.
 
-The next steps for you: 
+The next steps for you:
 
-* Sing up to my [newsletter][5]
+* Sign up to my [newsletter][5]
 * Follow me on [Twitter][2]
 * Check out my repositories on [Github][3]
 * [Email][4] me if you have any questions
