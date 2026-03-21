@@ -1,0 +1,15 @@
+services:
+  jekyll:
+    build:
+      context: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+      - bundle_cache:/usr/local/bundle
+    working_dir: /srv/jekyll
+    command: bundle exec jekyll serve --config _config.yml,_config_dev.yml --host 0.0.0.0 --port 4000 --livereload --future --force_polling
+
+volumes:
+  bundle_cache:
